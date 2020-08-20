@@ -7,7 +7,7 @@
     "start": "nodemon src/index.js localhost 8080"
   },
   "dependencies": {
-    "bcrypt": "^3.0.7"
+    "bcrypt": "^5.0.0"
   },
   "devDependencies": {
     "nodemon": "1.18.4"
